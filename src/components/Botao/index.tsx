@@ -4,7 +4,7 @@ import './style.scss'
 export default function Botao() {
   return (
     <>
-        <button>Botao</button>
+        <button className="botao">Botao</button>
     </>
   );
 }
